@@ -38,7 +38,7 @@ def information():
             return render_template('results.html', data_list=data_list[0:(len(data_list))])
         except Exception as e:
             print('The Exception message is: ', e)
-            return "Lost Internet Connection"
+            return e
     else:
         return render_template('index.html')
 
