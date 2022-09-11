@@ -38,5 +38,3 @@ wcwidth==0.2.5
 Werkzeug==2.0.3
 wincertstore==0.2
 zipp==3.6.0
-
-pandas~=1.1.5
