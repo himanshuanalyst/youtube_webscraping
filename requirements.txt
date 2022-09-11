@@ -19,7 +19,6 @@ Jinja2==3.0.3
 lxml==4.9.1
 MarkupSafe==2.0.1
 mysql-connector==2.2.9
-numpy==1.19.5
 pandas 
 parso==0.7.1
 pickleshare==0.7.5
