@@ -18,6 +18,7 @@ itsdangerous==2.0.1
 jedi==0.17.2
 Jinja2==3.0.3
 lxml==4.9.1
+flask_cors
 MarkupSafe==2.0.1
 mysql-connector==2.2.9
 pandas 
