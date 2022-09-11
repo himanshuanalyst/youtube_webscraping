@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>YOUTUBE SCRAPER</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+    <h1>PLEASE FILL INFORMATION OF YOUTUBE CHANNEL WHOSE VEDIOS YOU WANT TO DOWNLOAD</h1>
+    <form method="post" action="/find">
+        <label>YOUTUBE CHANNEL URL</label><br>
+        <input  type="text" name="channel_url"><br><br>
+
+        <label>NUMBER OF VEDIOS YOU WANT TO DOWNLOAD</label><br>
+        <input  type="text" name="no_of_vedio"><br><br>
+
+        <label>SLEEP BETWEEN INTERACTIONS</label><br>
+        <input  type="text" name="sleep_between_interactions"><br><br>
+
+        <input  type="submit" value="DOWNLOAD VIDEOS"><br><br>
+    </form>
+<footer>
+  <p>Please wait your Vedio is Downloading................<br>
+</footer>
+</body>
+</html>
+
+
+
