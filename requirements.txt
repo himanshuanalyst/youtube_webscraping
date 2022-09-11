@@ -5,7 +5,7 @@ certifi==2021.5.30
 charset-normalizer==2.0.12
 click==8.0.4
 colorama==0.4.5
-dataclasses==0.8
+dataclasses==0.6
 decorator==5.1.1
 dnspython==2.2.1
 Flask==2.0.3
@@ -29,7 +29,7 @@ pickleshare==0.7.5
 prompt-toolkit==3.0.31
 Pygments==2.13.0
 pymongo==4.1.1
-python==3.6
+Python >=3.6, <3.7
 pytube==12.1.0
 pytz==2022.2.1
 requests==2.27.1
