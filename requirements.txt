@@ -23,18 +23,18 @@ mkl-random==1.1.1
 mkl-service==2.3.0
 mysql-connector==2.2.9
 numpy==1.19.5
-pandas @ file:///C:/ci/pandas_1608056614942/work
+pandas 
 parso==0.7.1
 pickleshare==0.7.5
 prompt-toolkit==3.0.31
 Pygments==2.13.0
 pymongo==4.1.1
-python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-dateutil 
 pytube==12.1.0
 pytz==2022.2.1
 requests==2.27.1
 selenium==3.141.0
-six @ file:///tmp/build/80754af9/six_1644875935023/work
+six 
 soupsieve==2.3.2.post1
 traitlets==4.3.3
 typing_extensions==4.1.1
